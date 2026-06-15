@@ -1,9 +1,9 @@
-# 📊 Data Visualisation Project (Tableau & Power BI)
+# 📊 Data Visualisation Project (Power BI & Tableau)
 
 ## 📌 Overview
-This project was completed during **Week 2 of a Data Technician Bootcamp**, focusing on data visualisation, dashboard design, and business insights using **Tableau and Power BI**.
+This project was completed during **Week 2 of a Data Technician Bootcamp**, focusing on building interactive dashboards and visual analytics using **Power BI** and **Tableau**.
 
-The project explores global health data, music streaming data, and business intelligence reporting to develop interactive dashboards and communicate insights effectively.
+The work explores real-world datasets including global health statistics and music streaming data to identify trends, relationships, and actionable insights.
 
 ---
 
@@ -12,105 +12,116 @@ The project explores global health data, music streaming data, and business inte
 
 ### 🟨 Power BI
 - Data cleaning and transformation (Power Query)
-- Report design and visualisation
-- Data modelling basics
-- DAX calculations (introductory level)
+- Report building and layout design
+- Data modelling fundamentals
+- Creating calculations using **DAX**
 - Publishing and sharing reports
 
+---
+
 ### 🟦 Tableau
-- Data visualisation (bar charts, line charts, pie charts, scatter plots)
-- Dashboard creation and layout design
-- Filters and interactive controls
-- Sorting and Top N filtering
-- Data storytelling and insight generation
+- Creating visualisations:
+  - Bar charts
+  - Line charts
+  - Pie charts
+  - Scatter plots  
+- Building interactive dashboards
+- Applying filters (including Top N and dropdown filters)
+- Sorting and analysing trends over time
+- Data storytelling and insight presentation  
 
 ---
 
 ## 📊 Data Visualisation Techniques
 
 - **Bar Charts** – Comparing life expectancy across continents  
-- **Line Charts** – Showing trends over time  
-- **Pie Charts** – Displaying population distribution  
-- **Scatter Plots** – Analysing relationships between variables (e.g., BMI vs Life Expectancy)  
-- **Dashboards** – Combining multiple visuals into a single interactive view  
+- **Line Charts** – Tracking changes in life expectancy over time  
+- **Pie Charts** – Displaying population distribution by gender  
+- **Scatter Plots** – Exploring relationships (e.g., BMI vs Life Expectancy)  
+- **Dashboards** – Combining multiple visuals into one interactive interface  
 
 ---
 
 ## 📂 Project Tasks
 
-### ✅ Global Health Dashboard (Tableau)
+### ✅ Global Health Analysis (Tableau)
 Using the Gapminder dataset:
 
 - Created **Life Expectancy by Continent** (bar chart)
-- Built **Life Expectancy Trend** for top 5 countries (line chart)
+- Built **Life Expectancy Trend for Top 5 Countries** (line chart)
 - Designed **Population by Gender** (pie chart with filters)
 - Developed **Life Expectancy vs BMI** (scatter plot)
-- Combined all visuals into a **dashboard**
+- Combined all visualisations into a **single dashboard**
 
-**Key Insights:**
-- Europe has the highest life expectancy (~77 years)
-- Africa has the lowest (~58 years)
-- Countries like Japan, Switzerland, and Australia rank highest globally  
-- Gender population distribution is nearly equal across countries  
+**Key Findings:**
+- Europe has the highest life expectancy (~77 years)  
+- Africa has the lowest (~58 years)  
+- Top-performing countries include Japan, Switzerland, and Australia  
+- Population distribution is approximately equal between genders  
+- Insights can support healthcare planning and policy decisions  
 
 ---
 
 ### ✅ Spotify Data Analysis (Tableau)
-- Analysed music dataset containing:
+- Analysed dataset including:
   - Popularity
-  - Danceability
   - Energy
-  - Tempo
+  - Danceability
+  - Tempo  
 - Identified trends in:
   - Music characteristics
   - Genre behaviour
-  - Track popularity patterns
+  - Popularity patterns and listener preferences  
+
 
 ---
 
-### ✅ Power BI Labs & Reports
-- Completed labs on:
+### ✅ Power BI Reporting & Labs
+- Completed practical labs covering:
   - Data cleaning and transformation
-  - Report design and layout
-  - Combining multiple data sources
+  - Building reports and dashboards
+  - Combining data sources
   - Creating DAX calculations  
-- Built and published interactive reports
+
+- Developed and published reports using Power BI Service  
 
 ---
 
 ## 🔍 Key Insights
-- Significant global inequality exists in **health outcomes across continents**
-- Visual analytics helps identify **trends over time and relationships between variables**
-- Interactive dashboards improve **data accessibility and decision-making**
-- Music data reveals patterns between **audio features and popularity**
+- Clear disparities exist in **global health metrics across continents**
+- Life expectancy is strongly influenced by regional factors
+- Visual analysis helps uncover **relationships between health indicators**
+- Interactive dashboards improve **decision-making and user engagement**
+- Music data reveals connections between **audio features and popularity**
 
 ---
 
 ## 🚀 What I Learned
-- How to design clear and effective dashboards in Tableau
-- The importance of **interactive filtering for user-driven insights**
-- Data preparation workflows in Power BI
-- Fundamentals of **business intelligence reporting**
-- Communicating data insights through visuals and storytelling
+- Designing effective dashboards for storytelling
+- Using filters to enable **interactive user exploration**
+- Building end-to-end reporting workflows in Tableau and Power BI
+- Applying data visualisation best practices
+- Understanding the role of BI tools in real-world analysis
 
 ---
 
 ## 📊 Visualisation Examples
 
-- 📈 **Life Expectancy Trend Line Chart**  
-  Displays how life expectancy changes over time for top countries  
-
 - 📊 **Life Expectancy by Continent Bar Chart**  
   Compares average life expectancy across regions  
 
+- 📈 **Life Expectancy Trend Line Chart**  
+  Shows changes over time for top-performing countries  
+
 - 🥧 **Population by Gender Pie Chart**  
-  Shows percentage distribution by gender  
+  Displays gender distribution with percentage calculations  
 
 - 🔵 **BMI vs Life Expectancy Scatter Plot**  
-  Identifies relationships between health indicators  
+  Highlights relationships between health indicators  
 
 - 📊 **Interactive Dashboard**  
   Combines all visuals with filters for dynamic exploration  
+
 
 <img width="625" height="356" alt="image" src="https://github.com/user-attachments/assets/87d41a86-0472-4879-ab05-591d97b7745f" />
 <img width="627" height="340" alt="image" src="https://github.com/user-attachments/assets/a65314be-810c-482e-b4ac-c0e38b49c5a3" />
