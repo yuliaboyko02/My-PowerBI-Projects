@@ -77,8 +77,11 @@ The work explores real-world datasets including global health statistics and mus
 
 ## 📈 Dashboards
 
+
 [Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmJlYThjYTYtYjgxYS00MWQxLTg4NzAtNDlhMDA3OGM0NTcxIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 <img width="1518" height="829" alt="image" src="https://github.com/user-attachments/assets/efc12746-465d-47b6-a309-1847c019616f" />
 
-<img width="627" height="340" alt="image" src="https://github.com/user-attachments/assets/a65314be-810c-482e-b4ac-c0e38b49c5a3" />
+[Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFlYTc5ZTAtZGViNy00ODg3LWI0NWItNjYwN2FkZWQxODQ0IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+<img width="1335" height="701" alt="image" src="https://github.com/user-attachments/assets/a35565a7-65fc-4227-acae-6e29e853b9a2" />
